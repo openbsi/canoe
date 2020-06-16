@@ -1,2 +1,3 @@
-# soaf
-An open SOA framework
+# Lava
+
+A meta streaming engine!
